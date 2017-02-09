@@ -2,5 +2,5 @@
 
 ### Meteor / React Markdown Editor
 
-Meteor Authentication
+Meteor Blaze Authentication
 React Router
