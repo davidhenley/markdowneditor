@@ -2,6 +2,5 @@
 
 ### Meteor / React Markdown Editor
 
-Authentication System
-
-Router
+Meteor Authentication
+React Router
