@@ -1,9 +1,12 @@
 import React from 'react';
 
-export default () => {
+import Header from './header';
+
+export default (props) => {
   return (
     <div className="app">
-      App
+      <Header />
+      {props.children}
     </div>
   );
 }
